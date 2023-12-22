@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0091494.css",
+    "main.js": "/static/js/main.816ffae4.js",
+    "static/media/bobDylan.png": "/static/media/bobDylan.4b7e6382695ee2b51f99.png",
+    "static/media/weekend.png": "/static/media/weekend.4c59eaba53568a11fd73.png",
+    "static/media/djMusic.png": "/static/media/djMusic.e0caaf8963908e1b1986.png",
+    "static/media/saleImg.png": "/static/media/saleImg.5aa2703ddd14149631dd.png",
+    "static/media/mobileApp.png": "/static/media/mobileApp.1d445efd041775d627e1.png",
+    "static/media/soul.png": "/static/media/soul.5c8b66a40f7688912f81.png",
+    "static/media/BBKing.webp": "/static/media/BBKing.b5de27ac6c369a66a9b3.webp",
+    "static/media/concertImg1.jpg": "/static/media/concertImg1.d0806a861c63fa0dfcbf.jpg",
+    "static/media/concertImg2.jpg": "/static/media/concertImg2.14192510a16afdbe252d.jpg",
+    "static/media/concertImg3.jpg": "/static/media/concertImg3.5af4d8d57cb463814977.jpg",
+    "static/media/ledZeppelin.webp": "/static/media/ledZeppelin.aae6a04e5f68cc848e63.webp",
+    "static/media/elaquent.webp": "/static/media/elaquent.9366678862a3631aecf0.webp",
+    "static/media/leonBridges.webp": "/static/media/leonBridges.6b62d65beed491562a67.webp",
+    "static/media/freePhoto.png": "/static/media/freePhoto.58e7d757dc5ccddc2355.png",
+    "static/media/mobileAppBg.png": "/static/media/mobileAppBg.bc8a28e630e087efdfde.png",
+    "static/media/pinkFloyd.webp": "/static/media/pinkFloyd.52f028339ee07daa7a96.webp",
+    "static/media/logo2.png": "/static/media/logo2.53854e6bc1c99cad4aaa.png",
+    "static/media/logo.png": "/static/media/logo.2ae83a33934fe3f32150.png",
+    "static/media/ludwig.svg": "/static/media/ludwig.f93fb60ec8458d6a4ae81c743d9b2a68.svg",
+    "static/media/dw.svg": "/static/media/dw.722fc8fa25b485cf5a715d45324fc640.svg",
+    "static/media/marshall.svg": "/static/media/marshall.5776f471b836550d9972c12cbb399312.svg",
+    "static/media/tama.svg": "/static/media/tama.27cb2a6d6af595361a834bcc34b7585e.svg",
+    "static/media/yamaha.svg": "/static/media/yamaha.a72c2db3c315e25822957853cab48d70.svg",
+    "static/media/pearl.svg": "/static/media/pearl.3383c5214188d38723fb15f4507fca8c.svg",
+    "static/media/jbl.svg": "/static/media/jbl.e929d5740c64c8452aad1eb5d06e6fd4.svg",
+    "static/media/gibson.svg": "/static/media/gibson.f2c5139e74e047d61070b3706a09b09c.svg",
+    "index.html": "/index.html",
+    "main.f0091494.css.map": "/static/css/main.f0091494.css.map",
+    "main.816ffae4.js.map": "/static/js/main.816ffae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0091494.css",
+    "static/js/main.816ffae4.js"
+  ]
+}
